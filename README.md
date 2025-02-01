@@ -1,6 +1,6 @@
-# mindsync
+# MindSync
 
-AI Mental health application
+AI Mental Health Application
 
 ## Getting Started
 
