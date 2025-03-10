@@ -1,16 +1,48 @@
-# MindSync
+# 🚀 MindSync – AI-Powered Mental Health App  
+🔗 **Live Demo:** Coming Soon  
+📜 **License:** MIT  
 
-AI Mental Health Application
+## 📌 Overview  
+MindSync is an AI-powered mental health application designed to provide **secure, interactive, and intelligent support** using **machine learning models and Firebase services**. Users can track their mental well-being, reflect through journaling, and receive AI-generated insights.
 
-## Getting Started
+## ⚡ Key Features  
+- **AI-Powered Smart Journal** – Sentiment analysis and context-aware AI responses.  
+- **Secure Authentication** – Firebase Auth (Google, Email/Password, Biometric).  
+- **State Management** – Riverpod for structured, scalable architecture.  
+- **Real-Time Mental Health Insights** – AI models processing journal entries.  
+- **Offline Mode & Background Sync** – Ensures smooth functionality in all conditions.  
 
-This project is a starting point for a Flutter application.
+## 🛠 Tech Stack  
+- **Frontend:** Flutter (Dart)  
+- **Backend:** Firebase (Auth, Firestore, Cloud Functions)  
+- **AI & ML:** TensorFlow Lite, OpenAI API  
+- **State Management:** Riverpod  
+- **Other Services:** Firebase Analytics, Google Cloud Functions  
 
-A few resources to get you started if this is your first Flutter project:
+## 🏗 Installation & Setup  
+1. **Clone the repository:**  
+   ```sh
+   git clone https://github.com/brooke2384/MindSync.git
+   cd MindSync
+   ```  
+2. **Install dependencies:**  
+   ```sh
+   flutter pub get
+   ```  
+3. **Run the application:**  
+   ```sh
+   flutter run
+   ```  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🧪 Testing  
+To run unit and widget tests:  
+```sh
+flutter test
+```  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Future Enhancements  
+- **AI-Powered Chatbot** for real-time support.  
+- **Advanced Analytics Dashboard** for tracking emotional trends.  
+- **Expanded Authentication Options** (OAuth, Social Login).  
+
+
