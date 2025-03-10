@@ -482,10 +482,10 @@
       "languageVersion": "3.6"
     }
   ],
-  "generated": "2025-02-01T13:49:45.808338Z",
+  "generated": "2025-03-01T17:48:50.129244Z",
   "generator": "pub",
-  "generatorVersion": "3.6.0",
+  "generatorVersion": "3.6.2",
   "flutterRoot": "file:///C:/Users/Brooke%20D/Desktop/flutter",
-  "flutterVersion": "3.27.1",
+  "flutterVersion": "3.27.4",
   "pubCache": "file:///C:/Users/Brooke%20D/AppData/Local/Pub/Cache"
 }
